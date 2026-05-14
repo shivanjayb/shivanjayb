@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shivanjay 👋
 
-<!--
-**shivanjayb/shivanjayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Design undergraduate passionate about software engineering, scalable backend systems, and AI-driven applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- C++, Python, JavaScript, SQL
+- React.js, Node.js, Flutter, Flask
+- MongoDB, MySQL, Supabase
+- REST APIs, OpenCV, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Software Engineering
+- Backend Development
+- System Design
+- AI/ML Applications
+- Product & Technology
+
+## 📌 Featured Projects
+- Clothesly — AI-Powered Wardrobe Recommendation System
+- Nashik Skills Live — Skill Intelligence Platform
+- UDAY — AI-Powered Sports Assessment Platform
+
+## 🌍 Leadership
+- TEDxKKWIEER Organizer & Licensee (2025 & 2026)
+- Managed cross-functional teams, sponsorships, branding, and operations for large-scale TEDx events
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/shivanjay-bajpai
