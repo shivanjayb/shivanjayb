@@ -36,6 +36,7 @@ jobs:
         run: python scripts/fetch_contributions.py
         env:
           GH_PROFILE_USER: shivanjayb
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2 — regenerate the heatmap SVG from the fresh data
       - name: Render heatmap SVG
