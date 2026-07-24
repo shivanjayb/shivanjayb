@@ -1,28 +1,22 @@
-# Hi, I'm Shivanjay 👋
+<div align="center">
 
-Computer Science & Design undergraduate passionate about software engineering, scalable backend systems, and AI-driven applications.
+<h3><code>shivanjayb@github ~ $ ./contributions.sh</code></h3>
 
-## 🚀 Tech Stack
-- C++, Python, JavaScript, SQL
-- React.js, Node.js, Flutter, Flask
-- MongoDB, MySQL, Supabase
-- REST APIs, OpenCV, AWS
+<img src="./contrib-heatmap.svg" width="860" />
 
-## 💡 Interests
-- Software Engineering
-- Backend Development
-- System Design
-- AI/ML Applications
-- Product & Technology
+<br><br>
 
-## 📌 Featured Projects
-- Clothesly — AI-Powered Wardrobe Recommendation System
-- Nashik Skills Live — Skill Intelligence Platform
-- UDAY — AI-Powered Sports Assessment Platform
+<h3><code>shivanjayb@github ~ $ whoami</code></h3>
 
-## 🌍 Leadership
-- TEDxKKWIEER Organizer & Licensee (2025 & 2026)
-- Managed cross-functional teams, sponsorships, branding, and operations for large-scale TEDx events
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./avi-ascii.svg" width="370" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" />
+    </td>
+  </tr>
+</table>
 
-## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/shivanjay-bajpai
+</div>
